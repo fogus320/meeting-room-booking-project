@@ -16,7 +16,7 @@
 - ค้นหาห้องประชุมตามวัน เวลา และความจุ
 - จองห้องประชุมล่วงหน้า
 - ระบบตรวจสอบช่วงเวลาซ้อนทับ (Overlap Checking Algorithm)
-
+- แสดงรายการห้องประชุมบนหน้าแรก
 ## Technology
 - Frontend: React.js (Vite)
 - Backend: Node.js, Express.js
